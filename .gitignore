@@ -14,6 +14,10 @@
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 /Hypatia/[Aa]ssets/Bakery
+/Hypatia/[Aa]ssets/AmplifyShaderEditor
+/Hypatia/[Aa]ssets/Aura2
+/Hypatia/[Aa]ssets/3DGamekitLite
+
 
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
